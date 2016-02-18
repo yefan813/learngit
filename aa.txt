@@ -5,4 +5,9 @@ add this line to reset
 
 aaaaaaa
 
-add new line 
+add new line
+
+git is a distributed version control system
+
+git is free software
+
